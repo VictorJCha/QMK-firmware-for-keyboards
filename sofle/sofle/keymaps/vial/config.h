@@ -27,6 +27,8 @@
 #define VIAL_KEY_OVERRIDE_ENTRIES 64
 #define VIAL_TAP_DANCE_ENTRIES 64
 #define DYNAMIC_KEYMAP_MACRO_COUNT 32
+#define ENCODERS_PAD_A { encoder1a, encoder2a }
+#define ENCODERS_PAD_B { encoder1b, encoder2b }
 
 // #define VIALRGB_NO_DIRECT
 
